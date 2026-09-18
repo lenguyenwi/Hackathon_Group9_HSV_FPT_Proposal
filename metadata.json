@@ -1,0 +1,6 @@
+{
+  "name": "Proposal Scorer AI",
+  "description": "AI-powered proposal reviewer for sales and presales teams that compares client RFPs against draft proposals to identify requirement gaps, contradictions, scoring criteria, and actionable fixes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
